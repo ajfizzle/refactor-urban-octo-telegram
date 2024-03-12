@@ -13,16 +13,12 @@ This page showcases Horiseon's services and expertise in digital marketing, incl
 
 
 ## Usage
-
 1. Clone this repository to your local machine.
   - Github: github.com/ajfizzle/refactor-urban-octo-telegram
   - Github.io: ajfizzle.github.io/refactor-urban-octo-telegram
-
 2. Open the `index.html` file in your preferred web browser.
-
 3. Explore the various sections of the webpage.
 
 ## License
-
 This project is licensed under the MIT License.
 
