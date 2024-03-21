@@ -1,6 +1,7 @@
-#Bootcamp HTML /CSS exercise
+## Bootcamp HTML /CSS exercise
+Bootcamp HTML /CSS exercise - Module 1 Challenge
 
-Project Name: Horiseon Website
+## Project Name: Horiseon Website
 
 This file provides an overview of the HTML file for Horiseon, a digital marketing agency website.
 
