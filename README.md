@@ -1,5 +1,5 @@
 ## Bootcamp HTML /CSS exercise
-Bootcamp HTML /CSS exercise - Module 1 Challenge
+Module 1 Challenge
 
 ## Project Name: Horiseon Website
 
